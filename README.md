@@ -17,14 +17,11 @@ This firmware is required to remove restrictions
 3. Install Qflipper <a href='https://flipperzero.one/update'>official link</a>
 4. connect the flipper to the computer
 5. Go to FileManager
-<br /><br/>
+
 ![Screenshot](Sub-GHz/Screen1.png)
-<br /><br/>
+
 6. Next go to SD Card
-<br /><br/>
 ![Screenshot](Sub-GHz/Screen2.png)
-<br /><br/>
 7. Let's move on to sub-GHz
 8. Drag the folders into the application
-<br /><br/>
 ![Screenshot](Sub-GHz/Screen3.png)
