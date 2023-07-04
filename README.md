@@ -11,7 +11,6 @@ Sub-GHz for EU
 ## How to install
 
 1. Install custom firmware on flipper zero <a href='https://github.com/DarkFlippers/unleashed-firmware/releases' >Install it</a>.
-<br>
 
 This firmware is required to remove restrictions
 2. Download this package to your computer. I recommend that you download this package as a zip file.
