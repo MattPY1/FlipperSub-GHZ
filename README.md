@@ -1,9 +1,12 @@
 # FlipperSub-GHz
 Sub-GHz for EU
 ## What can this package do?
-
 - Jamming
 - Open Tesla Charge Port
+
+### Disclaimer
+#### Most likely, it is not legal in your region. Because of this, you yourself are responsible for your actions )
+
 
 ## How to install
 
